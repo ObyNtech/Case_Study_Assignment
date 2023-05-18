@@ -39,6 +39,13 @@
     - Conversational chatbots which leverages natural language processing to interact and respond to questions.
 
 
+#### Below is a Post Covid metric on Digital Mortgage Financing.
+
+![](../../post.PNG)
+
+
+
+
 
 ### Resources
 #### https://finledger.com/articles/morty-ceo-nora-apsel-discusses-the-online-mortgage-marketplace-and-its-journey-to-open-access-to-all/
