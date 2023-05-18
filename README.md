@@ -39,12 +39,6 @@
     - Conversational chatbots which leverages natural language processing to interact and respond to questions.
 
 
-#### Below is a Post Covid metric on Digital Mortgage Financing.
-
-![](../../post.PNG)
-
-
-
 
 
 ### Resources
@@ -58,3 +52,6 @@ https://www.cnbc.com/2016/09/20/mortgage-expert-launches-start-up-to-pull-back-t
 https://www.forbes.com/sites/haleykim/2019/08/07/morty-the-mortgage-tech-startup-transforming-the-way-you-buy-your-first-home-just-raised-85-million/?sh=f07541d33485
 https://www.infosysbpm.com/offerings/business-transformation-services/insights/documents/mortgaging-the-future-with-digital.pdf
 https://djangostars.com/blog/mortgage-tech-trends/
+
+
+[def]: ../../../../../Pictures/post.jpg
