@@ -33,7 +33,6 @@
 
 ### Industry Trend, Metrics and Recommendation
 #### Mortgage trends have evolved over the years leading the advent of Digital solution for Online Mortgage financing, which provides an efficient, streamlined process and in addition saves time and cost. The impact of Covid has further increased uptake of Digital Mortgage, with more prospective home buyers adopting this solution over the Traditional financing.
-#### Here are some metrics indication overall customer behaviour for Online mortgage post covid:
 
 
 #### Here are some metrics indicating overall customer behavior for Online Mortgage post Covid:
