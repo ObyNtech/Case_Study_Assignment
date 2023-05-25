@@ -43,7 +43,7 @@
 	- Borrowers were comfortable to close their Home Loan application using mobile : 29%
     - Volume of paper saved per year by Digital Mortgage: ~2.2BN
 
-
+![Metrics](https://github.com/ObyNtech/Case_Study_Assignment/blob/main/post.PNG)
 
 
 ### Resources
